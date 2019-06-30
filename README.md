@@ -7,7 +7,7 @@ This project contains a DLL library file and an Executable file in C#.<br />
 This project has been created to translate the strings (OBJ files) in Toradora! Portable game.<br />
 
 
-### License
+## License
 
 MIT License (https://opensource.org/licenses/mit-license.php)<br />
 
