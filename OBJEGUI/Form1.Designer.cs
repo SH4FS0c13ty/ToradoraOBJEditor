@@ -81,7 +81,6 @@
             // 
             // openFileDialog1
             // 
-            this.openFileDialog1.FileName = "sa";
             this.openFileDialog1.Filter = "All OBJ Files|*.obj";
             this.openFileDialog1.FileOk += new System.ComponentModel.CancelEventHandler(this.openFileDialog1_FileOk);
             // 
@@ -93,7 +92,6 @@
             // 
             // openFileDialog2
             // 
-            this.openFileDialog2.FileName = "sa";
             this.openFileDialog2.Filter = "All TXT Files|*.txt";
             this.openFileDialog2.FileOk += new System.ComponentModel.CancelEventHandler(this.OpenFileDialog2_FileOk);
             // 
