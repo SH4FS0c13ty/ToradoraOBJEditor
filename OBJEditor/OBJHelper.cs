@@ -24,7 +24,7 @@ namespace OBJEditor {
                     Actors[i] = Actor;
                 }
 
-                Strings[i] = Line.Replace(BreakLine, '\n');
+                Strings[i] = Line.Replace(BreakLine, '_');
             }
 
             return Strings;
@@ -37,7 +37,7 @@ namespace OBJEditor {
                 if (Actors[i] != null)
                     Line = Actors[i] + Line;
 
-                Tmp[i] = Line.Replace('\n', BreakLine);
+                Tmp[i] = Line.Replace('_', BreakLine);
             }
 
             return Editor.Export(Tmp);
