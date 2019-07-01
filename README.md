@@ -28,3 +28,9 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMA
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE<br />
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.<br />
 <br />
+
+## Credits
+
+Original OBJ Editor took from "Toradora! Portable.rar" by Marcus André:<br />
+https://github.com/marcussacana/Specific-Games/tree/master/Stuff's<br />
+I modified the program to make it more automatic in order to use it in the TigerXDragon toolkit.
