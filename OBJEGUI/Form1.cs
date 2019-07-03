@@ -201,9 +201,9 @@ namespace OBJEGUI {
                 + Environment.NewLine +
                 "For example:"
                 + Environment.NewLine +
-                "Patch OBJ: \"OBJEditor.exe -patch  file.obj  patch.txt\""
+                "Patch OBJ: \"OBJEGUI.exe -patch  file.obj  patch.txt\""
                 + Environment.NewLine +
-                "Export OBJ: \"OBJEditor.exe -export  file.obj  out.txt\""
+                "Export OBJ: \"OBJEGUI.exe -export  file.obj  out.txt\""
                 + Environment.NewLine
                 + Environment.NewLine +
                 "If you have another problem, create an issue on Github (https://github.com/SH4FS0c13ty/ToradoraOBJEditor).", 
