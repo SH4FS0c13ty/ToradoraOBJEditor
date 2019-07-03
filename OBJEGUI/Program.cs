@@ -11,8 +11,9 @@ namespace OBJEGUI {
             Application.SetCompatibleTextRenderingDefault(false);
             OBJEGUI obj = new OBJEGUI();
             if (args.Length != 0) {
-                obj.param1 = args[0];
-                obj.param2 = args[1];
+                obj.arg1 = args[0];
+                obj.arg2 = args[1];
+                obj.arg3 = args[2];
                 obj.Hide();
             }
             Application.Run(obj);
