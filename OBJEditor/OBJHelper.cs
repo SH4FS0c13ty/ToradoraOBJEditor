@@ -10,7 +10,6 @@ namespace OBJEditor {
         public OBJHelper(byte[] Script) { Editor = new OBJ(Script); }
         internal const char Open = '「', Close = '」', BreakLine = '＿';
 
-        //Ryuuji「(Aaaaaaaaagh!!!!)」
         public string[] Import() {
             string[] Strings = Editor.Import();
 
